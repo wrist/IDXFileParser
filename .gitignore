@@ -1,0 +1,4 @@
+*~
+*.pyc
+*-ubyte
+.ipynb_checkpoints/*
